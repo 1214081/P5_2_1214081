@@ -105,7 +105,7 @@
             this.OutputGroupBox.Size = new System.Drawing.Size(200, 104);
             this.OutputGroupBox.TabIndex = 3;
             this.OutputGroupBox.TabStop = false;
-            this.OutputGroupBox.Text = "Choose Output";
+            this.OutputGroupBox.Text = "Choose Output:";
             // 
             // ChildeForm
             // 
